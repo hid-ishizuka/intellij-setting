@@ -1,6 +1,6 @@
 <application>
   <component name="Perl5ApplicationSettings">
-    <option name="pluginVersion" value="2017.3.2" />
+    <option name="pluginVersion" value="2018.3.4" />
     <option name="popupShown" value="true" />
   </component>
   <component name="PerlInterpreters">
@@ -12,15 +12,19 @@
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://C:/Perl64/site/lib" />
-            <root type="simple" url="file://C:/Perl64/lib" />
+            <root url="file://C:/Perl64/site/lib" type="simple" />
+            <root url="file://C:/Perl64/lib" type="simple" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="system" />
+      </additional>
     </perl>
   </component>
 </application>
