@@ -1,0 +1,26 @@
+<application>
+  <component name="Perl5ApplicationSettings">
+    <option name="pluginVersion" value="2017.3.2" />
+    <option name="popupShown" value="true" />
+  </component>
+  <component name="PerlInterpreters">
+    <perl version="2">
+      <name value="Perl v5.24.1" />
+      <type value="Perl5 Interpreter" />
+      <version value="v5.24.1 for MSWin32-x64-multi-thread" />
+      <homePath value="C:/Perl64/bin" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Perl64/site/lib" />
+            <root type="simple" url="file://C:/Perl64/lib" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </perl>
+  </component>
+</application>

@@ -1,0 +1,23 @@
+<templateSet group="PHP">
+  <template name="dievar" value="die(var_dump());" description="die('var_dump())' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+    </context>
+  </template>
+  <template name="foreach" value="foreach ($array as $key =&gt; $value){&#10;&#9;print $key.'=&gt;'.$value;&#10;}" description="foreach ($array as $key =&gt; $value){" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="echopre" value="echo&quot;&lt;pre&gt;&quot;;print_r($);echo&quot;&lt;/pre&gt;&quot;;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($i) {&#10;    case 0:&#10;        break;&#10;    case 1:&#10;        break;&#10;    default:&#10;        break;&#10;}" description="switch ($i) {" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

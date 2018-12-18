@@ -1,0 +1,153 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issues</id>
+          </State>
+          <State>
+            <id>Bitwise operation issues</id>
+          </State>
+          <State>
+            <id>Code Smell</id>
+          </State>
+          <State>
+            <id>Code Style</id>
+          </State>
+          <State>
+            <id>Code quality tools</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Control Flow</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>DOM issues</id>
+          </State>
+          <State>
+            <id>Data flow issues</id>
+          </State>
+          <State>
+            <id>DocBlocks</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aids</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Flow type checker</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Invalid elements</id>
+          </State>
+          <State>
+            <id>JavaScript function metrics</id>
+          </State>
+          <State>
+            <id>JavaScript validity issues</id>
+          </State>
+          <State>
+            <id>Naming conventions</id>
+          </State>
+          <State>
+            <id>Node.js</id>
+          </State>
+          <State>
+            <id>PHP Strict Standards</id>
+          </State>
+          <State>
+            <id>PHPDoc</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructs</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Replaceable assignments</id>
+          </State>
+          <State>
+            <id>Type compatibility</id>
+          </State>
+          <State>
+            <id>Undefined</id>
+          </State>
+          <State>
+            <id>Unused</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>XsltDeclarations</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files (x86)/Nodist/v/7.2.1/node.exe">
+      <version-cache version="7.2.1" last-modified="1481924068000" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files (x86)/Nodist/bin/node.exe">
+      <version-cache version="8.9.3" last-modified="1481924056000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="C:/Program Files (x86)/nodejs/node.exe" version="5.3.0" last-modified="1450259644000" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://staff.petabit.co.jp/svn/yokosta" />
+        <option value="https://staff.petabit.co.jp/svn/asics/" />
+        <option value="https://staff.petabit.co.jp/svn/to-ho/source" />
+        <option value="https://staff.petabit.co.jp/svn/ecpkg/玉屋/src/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://staff.petabit.co.jp/svn/yokosta" />
+        <option value="https://staff.petabit.co.jp/svn/asics/" />
+        <option value="https://staff.petabit.co.jp/" />
+        <option value="https://staff.petabit.co.jp/svn" />
+        <option value="https://staff.petabit.co.jp/svn/asics" />
+        <option value="https://staff.petabit.co.jp/svn/to-ho/source" />
+        <option value="https://staff.petabit.co.jp/svn/ecpkg/玉屋/src/" />
+        <option value="https://staff.petabit.co.jp/svn/ecpkg" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\workspace\svn-win32-1.8.17\bin\svn.exe" />
+  </component>
+</application>
