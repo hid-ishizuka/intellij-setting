@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping ext="mtml" type="HTML" />
       <mapping ext="tmpl" type="HTML" />
+      <mapping ext="mtml" type="HTML" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="_headers" type="PLAIN_TEXT" />
       <mapping pattern="disp_flg" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
