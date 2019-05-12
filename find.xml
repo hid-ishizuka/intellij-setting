@@ -9,6 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,5 +22,6 @@
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.ctp</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
