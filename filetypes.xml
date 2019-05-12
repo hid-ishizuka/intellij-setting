@@ -8,6 +8,7 @@
       <mapping pattern="_headers" type="PLAIN_TEXT" />
       <mapping pattern="disp_flg" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="295926129" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
