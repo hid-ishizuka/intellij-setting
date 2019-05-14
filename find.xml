@@ -18,8 +18,8 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.ctp</mask>
-    <mask>*.blade.php</mask>
     <mask>*.php</mask>
     <mask>*.es6</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
