@@ -18,7 +18,7 @@
     <mask>*.ctp</mask>
     <mask>*.php</mask>
     <mask>*.es6</mask>
-    <mask>*.blade.php</mask>
     <mask>*.scss</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
